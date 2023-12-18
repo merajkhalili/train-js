@@ -1,0 +1,95 @@
+.body-login {
+	background-image: linear-gradient(#351aef, #ff8d26);
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+#image {
+	width: 16rem;
+}
+
+.header-box {
+	background-color: #ffae9c;
+	width: 27rem;
+	margin-left: 33rem;
+	height: 20rem;
+	border-radius: 1rem;
+	margin-top: 18rem;
+	margin-bottom: 10rem;
+}
+.input-box {
+	display: grid;
+	padding: 4rem;
+	width: 18rem;
+}
+.userName {
+	padding: 1rem;
+	border-radius: 9px;
+	margin-bottom: 17px;
+}
+.title-username {
+	margin: 0;
+	margin-top: -13px;
+	font-size: 16px;
+	color: red;
+	margin-bottom: 5px;
+	display: none;
+}
+.password {
+	padding: 1rem;
+	border-radius: 9px;
+	margin-bottom: 17px;
+}
+.title-password {
+	margin: 0;
+	margin-top: -11px;
+	font-size: 16px;
+	margin-bottom: 20px;
+	color: #ff4747;
+	display: none;
+}
+.btn {
+	padding: 10px;
+	border-radius: 9px;
+	width: 8rem;
+	margin-left: 5rem;
+	background-color: #ff5200;
+	color: #fff;
+	cursor: pointer;
+}
+.texts {
+	display: flex;
+	justify-content: center;
+	margin-top: -64px;
+}
+.text {
+}
+.title {
+	color: #00ff1de3;
+	padding-left: 4px;
+	cursor: pointer;
+}
+
+.modal {
+	padding: 0.7rem;
+	background-color: rgb(223, 28, 28);
+	color: #fff;
+	border-radius: 10px;
+	display: none;
+	font-size: 20px;
+	font-weight: bold;
+	position: absolute;
+	z-index: 999;
+	transition: all 1s linear;
+	margin-top: -34rem;
+	margin-left: 30rem;
+}
+
+.db {
+	display: flex;
+	justify-content: center;
+	margin-top: -10rem;
+	font-size: 4rem;
+	color: #7b2e2e;
+	cursor: pointer;
+}
+
