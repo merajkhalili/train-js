@@ -161,7 +161,6 @@ function clickFunck() {
 
 // تمرین Toggle
 
-
 /*
 
 let h1Elem = document.querySelector(".db");
@@ -171,4 +170,3 @@ h1Elem.addEventListener("click", function () {
 });
 
 */
-
